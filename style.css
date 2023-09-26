@@ -1,0 +1,20 @@
+<center>
+.name{
+        background-color: antiquewhite;
+        font-style: normal;
+        size: 50px;
+        padding: 20px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        border-radius: 15px;
+}
+.username{
+        font-style:italic;
+        margin-top: 10px;
+        margin-bottom: 10px;
+}
+.section{
+        font-weight:boulder;
+        font-family: Arial, helvetica, sans-serif;
+}
+</center>

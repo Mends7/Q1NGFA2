@@ -1,0 +1,22 @@
+*{margin: 0px;margin: 0px;}
+.navbar{margin: 5px; 
+    padding: 15px;     
+    border: 1px solid black;
+    text-align: center;
+}
+#links{display: inline;}
+#links a{
+    text-decoration: none;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid black;
+    color: aquamarine;
+    opacity: 10%;
+    transition: 0.4s;
+}
+#links a:hover{opacity: 1; transition: .4s;}
+.banner{
+    background-image: url(low.jpg);
+    height: 1000px;
+    width: 1000px;
+}
